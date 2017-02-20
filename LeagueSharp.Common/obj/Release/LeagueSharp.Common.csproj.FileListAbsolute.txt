@@ -1,0 +1,14 @@
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\LeagueSharp.Common.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\LeagueSharp.Common.pdb
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\EloBuddy.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\EloBuddy.SDK.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\LeagueSharp.Data.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\bin\Release\SharpDX.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\obj\Release\LeagueSharp.Common.csprojResolveAssemblyReference.cache
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\obj\Release\LeagueSharp.Common.Properties.Resources.resources
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\obj\Release\LeagueSharp.Common.csproj.GenerateResource.Cache
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\obj\Release\LeagueSharp.Common.dll
+C:\Users\Kyn\Desktop\CorePort\LeagueSharp.Common-master\obj\Release\LeagueSharp.Common.pdb
